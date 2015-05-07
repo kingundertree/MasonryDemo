@@ -1,0 +1,9 @@
+.git/*
+.DS_Store
+Podfile.lock
+Podfile
+Pods
+xcuserdata
+# xcshareddata
+MasonryDemo.xcodeproj/xcshareddata/xcschemes/AnjukeBroker_New.xcscheme
+MasonryDemo.xcworkspace/xcshareddata/
